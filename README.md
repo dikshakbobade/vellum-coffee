@@ -229,7 +229,7 @@ All brand colors are defined in `tailwind.config.js` under `theme.extend.colors`
 
 ## 👤 Author
 
-**Frontend Engineering Intern**  
+Dikshak Bobade 
 Project: Vellum Coffee Premium Café Website  
 Stack: Next.js · React · Tailwind CSS · Framer Motion
 
